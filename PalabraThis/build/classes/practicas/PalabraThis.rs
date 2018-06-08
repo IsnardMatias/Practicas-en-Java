@@ -1,0 +1,3 @@
+practicas.Persona
+practicas.PalabraThis
+practicas.Imprimir
